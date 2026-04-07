@@ -120,8 +120,8 @@ ADA-MAIN/
 
 ## Author
 
-Your Name
-Course / Degree
+Ritik Kumar
+Analysis and design of algorithms/ B.tech CSE(AI - ML)
 
 ---
 
