@@ -130,3 +130,5 @@ Analysis and design of algorithms/ B.tech CSE(AI - ML)
 ## Academic Use
 
 This project is created for academic purposes as part of the ADA course.
+u can easily learn from this repo it makes the ada more easier
+
