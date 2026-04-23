@@ -8,7 +8,7 @@ This repository contains implementations of fundamental algorithms studied in th
 
 
 
-## Objectives
+# Objectives
 
 * Understand basic and advanced algorithmic techniques
 * Analyze time and space complexity
