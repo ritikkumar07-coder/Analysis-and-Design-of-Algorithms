@@ -11,7 +11,6 @@ This repository contains implementations of fundamental algorithms studied in th
 * Compare performance of different algorithms
 
 ---
-
 ## Topics Covered
 
 ### Searching Algorithms
